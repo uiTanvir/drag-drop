@@ -1,0 +1,7 @@
+.drag-box{
+    border: 1px solid #ddd;
+    height: 120px;
+}
+.drag-box img{
+    padding: 5px;
+}
